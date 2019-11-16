@@ -1,0 +1,16 @@
+*   To remove numbers and bullet points from list, CSS uses the following code:
+
+        list-style: none;
+
+*   I looked up 'textarea' and the first result was https://css-tricks.com/textarea-tricks/. There are various things that you can do with
+    text, for instance:
+
+        1.  Image as textarea background, disappears when text is entered.
+        2.  HTML5 placeholder text
+        3.  Placeholder text, HTML5 with jQuery fallback
+        4.  Remove the blue glow
+        5.  Remove resize handle
+        6.  Add resize handle
+        7.  Auto-resize to fit content
+        8.  Nowrap
+        9.  Remove default scrollbars in Internet Explorer
